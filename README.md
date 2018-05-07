@@ -1,2 +1,2 @@
 # ChatRoom
-Chat Room program 
+Chat Room program. Complete it with break time everyday.
